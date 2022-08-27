@@ -26,5 +26,10 @@ A site dedicated to making high value health data more accessible to entrepreneu
 
 It's possible to find a complete and detailed list of the Open Data available online in the book Python Data Analytics<a name="cite_ref-1"></a>[<sup>[1]</sup>](#cite_note-1).  
 
+<br>
+
+---
+
+<br>
 
 <a name="cite_note-1"></a>1. [](#cite_ref-1) Nelli, F. (2015). Open Data Sources. In: Python Data Analytics. Apress, Berkeley, CA. https://doi.org/10.1007/978-1-4842-0958-5_13.
