@@ -21,7 +21,7 @@ A single point of access to open data from European countries. EU institutions, 
 
 5. [HealthData.gov](http://www.healthdata.gov)
 
-A site dedicated to making high value health data more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.
+A site dedicated to making high value health data more accessible to entrepreneurs, researchers and policy makers in the hopes of better health outcomes for all.
 
 
 It's possible to find a complete and detailed list of the Open Data available online in the book *Python Data Analytics*<a name="cite_ref-1"></a>[<sup>[1]</sup>](#cite_note-1).  
