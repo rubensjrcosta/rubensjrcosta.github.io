@@ -13,7 +13,7 @@ The WHO manages and maintains a wide range of data collections related to global
 
 3. [U.S. Government’s Open Data](http://data.gov)
 
-You can find data, tools, and resources to conduct research. Also develop web and mobile applications, design data visualizations and more.
+You can find data, tools and resources to conduct research. Also develop web and mobile applications, design data visualizations and more.
 
 4. [European Data](https://data.europa.eu/data/datasets?locale=en)
 
