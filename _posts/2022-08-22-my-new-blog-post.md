@@ -32,4 +32,4 @@ It's possible to find a complete and detailed list of the Open Data available on
 
 <br>
 
-<a name="cite_note-1"></a>1. [](#cite_ref-1) Nelli, F. (2015). Open Data Sources. In: Python Data Analytics. Apress, Berkeley, CA. https://doi.org/10.1007/978-1-4842-0958-5_13.
+<a name="cite_note-1"></a>1. [](#cite_ref-1) Nelli, F. (2015). Open Data Sources. In: Python Data Analytics. Apress, Berkeley, CA. [https://doi.org/10.1007/978-1-4842-0958-5_13](https://doi.org/10.1007/978-1-4842-0958-5_13).
