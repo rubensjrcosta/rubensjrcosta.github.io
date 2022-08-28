@@ -1,4 +1,4 @@
-## Statistics Soup Blog
+## Statistics Soup Blog 🎲
 
 The Statistics Soup blog dates back to its very first post in August of 2022. The author, Rubens Costa Jr, has Bachelor's degree in Science and Technology
 at the Universidade Federal do ABC (2013), Bachelor's degree in Physics at the Universidade Federal do ABC (2014), a Master's degree in Physics at the
