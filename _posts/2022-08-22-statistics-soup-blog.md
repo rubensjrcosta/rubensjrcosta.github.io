@@ -1,4 +1,4 @@
-## Statistics Soup Blog 🎲
+## Statistics Soup 🎲
 
 The Statistics Soup blog dates back to its very first post in August of 2022. The author, Rubens Costa Jr., has a Bachelor's degree in Science and Technology from the Federal University of ABC (2013), a Bachelor's degree in Physics from the Federal University of ABC (2014), a Master's degree in Physics from the Federal University of ABC (2014) and a Ph.D. in Physics from the Federal University of ABC (2019). He is a member of the Brazilian Physical Society (Sociedade Brasileira de Física). He has experience in Analytics and Computational Physics in the field of study of High Energy Physics, and Astrophysics. Now he is on a journey in the research of machine learning and AI. Thus, he decided to create a blog to share some of the things he has learned along the journey.
 
